@@ -37,6 +37,10 @@ Kafelki z hobbies po najechaniu zwiększają font oraz zmieniają kolor.
 
 ![Hobbies](images/3.png)
 
+Kafelki w wersji mobilnej układają się w kolumnie.
+
+![Hobbies](images/12.png)
+
 ## About Me
 Zawiera image oraz tekst.
 
