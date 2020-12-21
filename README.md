@@ -13,7 +13,7 @@ Projekt składa się z menu, które przenosi nas w wyznaczone miejsca na stronie
 
 ![Menu w  wersji desktopowej](images/1.png)
 
-Elementy menu w  wersji desktopowej po najechaniu zmieniają background-color.
+Elementy menu w  wersji desktopowej po najechaniu zmieniają background-color oraz kolor fontu.
 
 ![Menu w  wersji desktopowej](images/11.png)
 
@@ -21,7 +21,7 @@ Elementy menu w  wersji desktopowej po najechaniu zmieniają background-color.
 
 ![Menu w  wersji mobilnej](images/7.png)
 
-Elementy menu w wersji mobilnej po najechaniu zmieniają background-color.
+Elementy menu w wersji mobilnej po najechaniu zmieniają background-color oraz kolor fontu.
 
 ![Menu w  wersji mobilnej](images/6.png)
 
