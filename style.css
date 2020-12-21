@@ -58,7 +58,7 @@ li a{
     width: 100%;
 }
 
-.menu-item:hover, .logo:hover, .nav:hover{
+.menu-item:hover, .logo:hover, .nav:hover, li a:hover{
     background-color: var(--orangeColor);
     color: white;
 }
