@@ -13,11 +13,15 @@ Projekt składa się z menu, które przenosi nas w wyznaczone miejsca na stronie
 
 ![Menu w  wersji desktopowej](images/1.png)
 
+Elementy menu w  wersji desktopowej po najechaniu zmieniają background-color.
+
+![Menu w  wersji desktopowej](images/11.png)
+
 # Menu dla urządzeń mobilnych
 
 ![Menu w  wersji mobilnej](images/7.png)
 
-Wszystkie opcje w menu po najechaniu zmieniają background-color.
+Elementy menu w wersji mobilnej po najechaniu zmieniają background-color.
 
 ![Menu w  wersji mobilnej](images/6.png)
 
@@ -53,6 +57,3 @@ Zawiera formularz oraz informacje o mioch umiejętnościach.
 Zawiera ikony oraz linki do Facebook, Instagram oraz Github.
 
 ![Icons](images/8.png)
-
-
-
