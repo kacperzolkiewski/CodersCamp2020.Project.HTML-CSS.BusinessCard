@@ -17,8 +17,6 @@ body{
     --blueColor : rgb(156, 194, 226);
 }
 
-
-
 .menu, .menu1{
     background-color: white;
     width: 100%;
@@ -57,8 +55,6 @@ li a{
     height: 100%;
     width: 100%;
 }
-
-
 
 li.menu-item:hover, li.logo:hover, li.nav:hover, li a:hover{
     background-color: var(--orangeColor);
@@ -173,7 +169,6 @@ h1.skills {
 }
 
             /* flex-container-3 */
-
 
 .flex-container-3{
     height: 150px;
@@ -298,7 +293,6 @@ h1.css {
     color: rgb(32, 99, 243);
 }
 
-
 @keyframes iconJump{
     0%{
         bottom: 0;
@@ -311,7 +305,6 @@ h1.css {
 
     }
 }
-
 
 @media (max-width: 660px) {
     li.menu-item {
@@ -362,7 +355,6 @@ h1.css {
 
 }
 
-
 @media (max-width: 439px){
     .flex-container-2 p{
         font-size: 17px;
@@ -379,7 +371,6 @@ h1.css {
     
 }
 
-
 @media (max-width: 1000px), (max-height: 618px){
     .flex-container-4 .div-item i{
         font-size: 80px;
@@ -395,7 +386,6 @@ h1.css {
         width: 63%;
     }
 }
-
 
 @media (max-width: 750px){
 

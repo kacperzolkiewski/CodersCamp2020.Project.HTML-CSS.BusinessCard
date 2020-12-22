@@ -4,7 +4,7 @@
 
 # Opis projektu
 
-Projekt składa się z menu, które przenosi nas w wyznaczone miejsca na stronie oraz 4 sekcji. W projekcie zostały użyte ikony ze strony [Font Awesome](https://fontawesome.com/) oraz font ze strony [Google Fonts](https://fonts.google.com/).
+Projekt reprezentuję przykładową stronę wizytówkę. Projekt składa się z menu, które przenosi nas w wyznaczone miejsca na stronie oraz 4 sekcji. W projekcie zostały użyte ikony ze strony [Font Awesome](https://fontawesome.com/) oraz font ze strony [Google Fonts](https://fonts.google.com/).
 
 
 ## Menu
